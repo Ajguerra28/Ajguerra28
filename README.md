@@ -21,4 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajguerra28&show_icons=true&theme=dark&locale=en&layout=compact" alt="ajguerra28" /></p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajguerra28&show_icons=true&theme=dark)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajguerra28&show_icons=true&theme=dark&locale=en" alt="ajguerra28" /></p>

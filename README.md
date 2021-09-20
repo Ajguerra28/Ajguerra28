@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Guerra</h1>
-<h3 align="center">A fullstack developer from Portugal (work in progress)</h3>
+<h3 align="center">Fullstack developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajguerra28&label=Profile%20views&color=0e75b6&style=flat" alt="ajguerra28" /> </p>
 

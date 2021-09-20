@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonio Guerra</h1>
 <h3 align="center">Fullstack developer from Portugal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajguerra28&label=Profile%20views&color=0e75b6&style=flat" alt="ajguerra28" /> </p>
-
 - 🔭 I’m currently working on [iBuddy.find](http://www.ibuddyfind.com)
 
 - 🌱 I’m currently learning **React.js**
@@ -23,3 +21,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajguerra28&show_icons=true&theme=dark&locale=en" alt="ajguerra28" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajguerra28&label=Profile%20views&color=0e75b6&style=flat" alt="ajguerra28" /> </p>

@@ -7,7 +7,7 @@
 
 - 📫 For business purposes **antonioguerrained@gmail.com**
 
-- ⚡ Fun fact **I have a Dragon Ball tattoo well hidden <img src="https://vignette.wikia.nocookie.net/p__/images/e/e9/Kid_Goku.png/revision/latest?cb=20150210165413&path-prefix=protagonist" width="60" height="50">**
+- ⚡ Fun fact **I have a well hidden Dragon Ball tattoo <img src="https://vignette.wikia.nocookie.net/p__/images/e/e9/Kid_Goku.png/revision/latest?cb=20150210165413&path-prefix=protagonist" width="60" height="50">**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

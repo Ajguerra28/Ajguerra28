@@ -19,8 +19,8 @@
 
 
 <div align"center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajguerra28&show_icons=true&theme=dark&locale=en&layout=compact" alt="ajguerra28" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajguerra28&show_icons=true&theme=dark&locale=en" alt="ajguerra28" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajguerra28&show_icons=true&theme=dark&locale=en&layout=compact" alt="ajguerra28" />
 </div>
 
 <div><img src="https://komarev.com/ghpvc/?username=ajguerra28&label=Profile%20views&color=0e75b6&style=flat" alt="ajguerra28" /></div>
